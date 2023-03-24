@@ -9,3 +9,5 @@ new feature in feature1 branch added
 added after merge feature1 into main
 -----------------------------
 added in branch feature after rebase om main
+--------------------------
+added in feature1 after merging feature1 into main and checkout to feature1
