@@ -13,5 +13,7 @@ added in branch feature after rebase om main
 added in branch main after checkout to main
 
 =======
---------------------------
 added in feature1 after merging feature1 into main and checkout to feature1
+---------------
+new addon for rebase in feature1
+-------------------------------------
