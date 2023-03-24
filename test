@@ -14,6 +14,11 @@ added in branch main after checkout to main
 
 =======
 added in feature1 after merging feature1 into main and checkout to feature1
+<<<<<<< HEAD
 ---------------
-new addon for rebase in feature1
+new addon in main for rebase in feature1
 -------------------------------------
+=======
+-----------
+added in feature1, awaiting new addons in main for rebase
+>>>>>>> 52e9653 (added in feature1, awaiting new addons in main for rebase)
