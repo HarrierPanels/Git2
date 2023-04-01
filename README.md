@@ -4,3 +4,4 @@ test
 <!-- New git fetch 2 -->
 <!-- New git fetch 3 main branch -->
 <!-- git switch feature1 && git pull origin main -->
+<!-- git switch feature1 && git pull origin main 2 -->
