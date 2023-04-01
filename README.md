@@ -1,2 +1,2 @@
-# Edited for git fetch (2)
+// Edited for git fetch (2)
 test
